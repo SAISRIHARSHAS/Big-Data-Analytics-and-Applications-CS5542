@@ -1,9 +1,9 @@
 # Big-Data-Analytics-and-Applications-CS5542
 Big Data Analytics and Applications. CS5542
 
-https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-1-Report
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-1-Report.
 
-https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-2-Report
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-2-Report.
 
 https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-3-Report
 
