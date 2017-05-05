@@ -1,24 +1,24 @@
 # Big-Data-Analytics-and-Applications-CS5542
 Big Data Analytics and Applications. CS5542
 
-Lab - 1: https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/tree/master/Lab%201
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-1-Report
 
-Lab -2 : https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/tree/master/Lab%202
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-2-Report
 
-Lab - 3: https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/tree/master/Lab%203
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-3-Report
 
-Lab- 4: https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/tree/master/Lab%204
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-4-REPORT
 
-Lab 5: https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/tree/master/Lab%205
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-5-REPORT
 
-Lab-6: https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/tree/master/Lab%206
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-6-REPORT
 
-Lab 7: https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/tree/master/Lab%207
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-7-REPORT
 
-Lab 8: https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/tree/master/Lab%208
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-8-REPORT
 
-Lab-9: https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/tree/master/Lab%209
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-9-REPORT
 
-Lab 10: https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/tree/master/Lab%2010
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/LAB-10-REPORT
 
-Lab - 11: https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/Lab-11-Report.
+https://github.com/SAISRIHARSHAS/Big-Data-Analytics-and-Applications-CS5542/wiki/Lab-11-Report
